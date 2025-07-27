@@ -1,0 +1,112 @@
+🛣️ Roadmap for Software Testing 😎
+# 🧪 Software Testing Tutorial – Summary & Notes
+
+Welcome to the **Software Testing** notes based on the comprehensive (https://www.geeksforgeeks.org/software-testing/software-testing-tutorial/). This document helps beginners and professionals understand the **principles**, **types**, and **tools** used in software testing, structured in a concise, visual, and developer-friendly format. 🎯
+
+---
+
+## 📚 Table of Contents
+- 🔍 [What is Software Testing?](#what-is-software-testing)
+- 🧠 [Objectives of Software Testing](#objectives-of-software-testing)
+- 🧪 [Types of Software Testing](#types-of-software-testing)
+- 🧰 [Software Testing Techniques](#software-testing-techniques)
+- 🧾 [Levels of Testing](#levels-of-testing)
+- 🧬 [Test Artifacts](#test-artifacts)
+- 📦 [Testing Tools](#testing-tools)
+- 🔗 [Reference](#reference)
+
+---
+
+## 🔍 What is Software Testing?
+
+> **Software Testing** is the process of evaluating a software application to identify bugs or issues and ensure the product meets the expected quality standards. 🐞✅
+
+### ⚙️ Key Points:
+- Identifies **errors**, **gaps**, or **missing requirements**.
+- Ensures product behaves as expected under various scenarios.
+- Critical for delivering **reliable**, **stable**, and **high-performing** software.
+
+---
+
+## 🧠 Objectives of Software Testing
+
+- ✅ Ensure the software works as intended.
+- 🧱 Detect and fix bugs before release.
+- 📉 Minimize failure risk post-deployment.
+- 🏗 Improve software robustness and performance.
+
+---
+
+## 🧪 Types of Software Testing
+
+### 🔸 Based on Execution:
+- **Manual Testing** 🧑‍💻 – Test cases executed by a human tester.
+- **Automation Testing** 🤖 – Test cases executed by automation tools like Selenium, QTP.
+
+### 🔸 Based on Knowledge of System:
+- **Black Box Testing** ⚫ – No knowledge of internal code, focus on input/output.
+- **White Box Testing** ⚪ – Full visibility into code and logic.
+- **Gray Box Testing** ⚫⚪ – Partial knowledge, mix of both techniques.
+
+---
+
+## 🧰 Software Testing Techniques
+
+- 🔍 **Equivalence Partitioning**
+- 🧪 **Boundary Value Analysis**
+- 🧠 **Decision Table Testing**
+- 💭 **State Transition Testing**
+- 🔄 **Error Guessing**
+
+These techniques help testers design effective test cases with minimal effort and high coverage.
+
+---
+
+## 🧾 Levels of Testing
+
+1. 🧱 **Unit Testing** – Testing individual units/modules.
+2. 🧩 **Integration Testing** – Testing interfaces between modules.
+3. 🧮 **System Testing** – Testing the complete application.
+4. 🔁 **Acceptance Testing** – Verifying software readiness from a user's point of view.
+
+---
+
+## 🧬 Test Artifacts
+
+- 📝 **Test Plan** – Scope, approach, resources, and schedule.
+- 🧾 **Test Case** – Conditions to check if a feature works.
+- 🧪 **Test Script** – Set of instructions to validate a test case.
+- 📋 **Bug Report** – Documenting defects for fixing.
+
+---
+
+## 📦 Testing Tools
+
+Popular tools include:
+
+| Tool Name       | Purpose                |
+|-----------------|-------------------------|
+| Selenium 🕷️     | Web app automation     |
+| JUnit ⚖️        | Java unit testing      |
+| TestNG 🧪       | Advanced test framework|
+| LoadRunner 🚀   | Performance testing    |
+| Postman 📬      | API testing            |
+
+---
+
+## 🔗 Reference
+
+🧠 Original tutorial and full content:  
+[GeeksforGeeks – Software Testing Tutorial](https://www.geeksforgeeks.org/software-testing/software-testing-tutorial/)
+
+---
+
+> ⚠️ _Note: This summary is for educational and reference purposes. Always refer to official documentation and sources for in-depth understanding._
+
+---
+
+✅ _Maintained by: Ansh Patel_  
+📧 _Email: anshpatel.official2@gmail.com_
+
+---
+
